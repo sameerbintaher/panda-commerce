@@ -1,0 +1,20 @@
+.bg-color-panda{
+    background-color: #fceae7;
+}
+.carousel-item-price{
+    color: #ff136f;
+}
+.cat-color-1{
+    background-color: #ffa500;
+}
+.cat-color-2{
+    background-color: #d970d6;
+}
+.cat-color-3{
+    background-color: #00f;
+}
+.button-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    width: 140px;
+}
